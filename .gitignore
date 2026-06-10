@@ -1,0 +1,13 @@
+# Whitelist approach: ignore everything at the top level by default,
+# then re-include only the repo scaffolding. Any generated content folder
+# (e.g. My_Blog_Post/) is automatically ignored — no need to update this file.
+/*
+
+!/.gitignore
+!/README.md
+!/CLAUDE.md
+!/.claude
+!/examples
+
+# OS noise (applies at any depth)
+.DS_Store
