@@ -1,4 +1,4 @@
-# REACH Network — day-of reminder
+# REACH Network - day-of reminder
 
 Hey {{{contact.first_name|there}}},
 

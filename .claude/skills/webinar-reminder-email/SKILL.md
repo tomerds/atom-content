@@ -8,8 +8,8 @@ description: Write webinar reminder emails for Atom (day-of reminders, day-befor
 ## Before writing
 
 1. Read the examples in `examples/webinar-reminder-emails/` and match them closely.
-2. Gather the facts: webinar title, date/time with timezone, hosts/speakers (names, titles, orgs), what attendees will learn, target roles, and the registration URL. If the user gives a webinar page URL on atomgrants.com, fetch it — it has all of this. Ask only for what you can't find. Never invent details (e.g. don't add an end time if only a start time is published).
-3. Confirm where this lands in the sequence (week-before, day-before, day-of) — it changes only the opening line, not the structure.
+2. Gather the facts: webinar title, date/time with timezone, hosts/speakers (names, titles, orgs), what attendees will learn, target roles, and the registration URL. If the user gives a webinar page URL on atomgrants.com, fetch it - it has all of this. Ask only for what you can't find. Never invent details (e.g. don't add an end time if only a start time is published).
+3. Confirm where this lands in the sequence (week-before, day-before, day-of) - it changes only the opening line, not the structure.
 
 ## Email structure (follow exactly)
 
@@ -44,7 +44,7 @@ The Atom Team
 
 ## Style notes
 
-- Short and warm — no padding beyond the structure above. One pitch paragraph, exactly three bullets.
+- Short and warm - no padding beyond the structure above. One pitch paragraph, exactly three bullets.
 - Keep the merge-field syntax verbatim: `{{{contact.first_name|there}}}`.
 - Asterisk bullets with a blank line between each, matching the examples.
 - The emoji detail block uses 📅 / ⏰ / 📍 in that order.

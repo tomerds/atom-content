@@ -7,7 +7,7 @@ description: Write a blog post for Atom (atomgrants.com). Use when asked to writ
 
 ## Before writing
 
-1. Read every example in `examples/blogs/` — match their voice, structure, typical length, and formatting. The examples are the source of truth; the guidance below is secondary.
+1. Read every example in `examples/blogs/` - match their voice, structure, typical length, and formatting. The examples are the source of truth; the guidance below is secondary.
 2. If the topic requires facts about Atom, customers, or metrics that aren't in the examples or the user's prompt, ask rather than invent.
 
 ## Process

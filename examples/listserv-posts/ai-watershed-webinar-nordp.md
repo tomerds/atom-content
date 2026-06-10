@@ -1,6 +1,6 @@
-# Listserv post (RESADM-L)
+# Listserv post (NORDP Forum)
 
-**To:** resadm-l@lists.healthresearch.org
+**To:** NORDPForum@hub.nordp.org
 
 **Subject options:**
 - Free webinar 6/18: AI, national security, and where federal research dollars are headed
@@ -18,7 +18,7 @@ Chancellor Johnny MacLean and Dr. Katie Hailer (Vice Chancellor of Research) fro
 Thursday, June 18, 2026
 12:00 PM Eastern, on Zoom
 
-It should be especially useful if you work in pre-award, sponsored programs, or grants management: the back half focuses on practical steps for keeping proposals and institutional narratives aligned with shifting federal priorities.
+It should be especially useful for research development work: the back half focuses on practical steps for repositioning institutional research strategy and adapting proposal narratives to where federal funding is moving next.
 
 You can register here: https://atomgrants.com/webinars/artificial-intelligence-as-a-watershed-moment
 

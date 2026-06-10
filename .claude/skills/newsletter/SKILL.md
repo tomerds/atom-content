@@ -7,7 +7,7 @@ description: Write an Atom newsletter issue. Use when asked to write, draft, or 
 
 ## Before writing
 
-1. Read every example in `examples/newsletters/` — match the section structure, voice, subject-line style, and length. The examples are the source of truth.
+1. Read every example in `examples/newsletters/` - match the section structure, voice, subject-line style, and length. The examples are the source of truth.
 2. Gather the inputs for this issue (features shipped, upcoming webinars, blog posts to link, etc.) from the user's prompt; ask for anything missing rather than inventing.
 
 ## Process
