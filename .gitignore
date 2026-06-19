@@ -8,6 +8,8 @@
 !/CLAUDE.md
 !/.claude
 !/examples
+!/playbooks
+!/references
 
 # OS noise (applies at any depth)
 .DS_Store
