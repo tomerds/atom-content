@@ -4,6 +4,7 @@
 /*
 
 !/.gitignore
+!/.mcp.json
 !/README.md
 !/CLAUDE.md
 !/.claude
